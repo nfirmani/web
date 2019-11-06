@@ -1,2 +1,13 @@
 # web
-Esempi di progetti  **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
+**Esempi di progetti**  
+
+Tecnologie utilizzate:
+
+* Typescript
+* Visual studio code
+* Eclipse theia
+* Node
+* Docker
+
+
+[link to Tinn S.r.l](https://www.tinn.it/)
